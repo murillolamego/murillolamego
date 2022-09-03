@@ -14,8 +14,7 @@
 		<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 	</a>
 	<a href="https://twitter.com/MurilloLamego" rel="nofollow">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
  </div>
  <hr></hr>
