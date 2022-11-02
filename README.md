@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Murillo Lamego</h1>
 <p>I live in <strong>Brazil</strong> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="16"> and work as a <strong>Full Stack Developer</strong> 👨‍💻</p>
 
-<p>I love to learn more about web development every day, i'm getting an MBA in Full Stack Development from <a href="https://www.xpeducacao.com.br/" rel="nofollow">XPEducação</a> and i'm a student at <a href="https://www.alura.com.br/" rel="nofollow" target="_blank">Alura</a> and <a href="https://www.rocketseat.com.br/" rel="nofollow">Rocketseat</a>, i also love the great content available on youtube.
+<p>I love to learn more about web development every day, I'm getting an MBA in Full Stack Development from <a href="https://www.xpeducacao.com.br/" rel="nofollow">XPEducação</a> and I'm a student at <a href="https://www.alura.com.br/" rel="nofollow" target="_blank">Alura</a> and <a href="https://www.rocketseat.com.br/" rel="nofollow">Rocketseat</a>, I also love the great content available on youtube.
  </p>
  <div>
 	<a href="https://www.linkedin.com/in/murillolamego" rel="nofollow">
