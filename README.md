@@ -5,7 +5,7 @@
 
 <p>I work as a freelancer since 2010 when I got into college, mostly using Wordpress/Laravel to help small local companies have their first website or offering my services online, I migrated to JavaScript/NodeJS around 2017 and everyday I fall more in love with it.</p>
 
-<p>I became a federal employee in 2015, working at Receita Federal do Brasil, in the IT department, working with different tech stacks, there I've learned how to structure bigger projects, ensure quality with precise testing, secure them with market best practices, provide support to the end user, and much more.</p>
+<p>I became a federal employee in 2015, at Receita Federal do Brasil, in the IT department, working with different tech stacks, there I've learned how to structure bigger projects, ensure quality with precise testing, secure them with market best practices, provide support to the end user, and much more.</p>
  
 Connect with me:
 <div>
