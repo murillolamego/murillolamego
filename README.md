@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Murillo!</h1>
-<p>I live in <strong>Brazil</strong> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="16"> and work as a <strong>Full Stack Developer</strong> 👨‍💻</p>
+<p>I live in <strong>Brazil</strong> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="16">, I'm a cinephile 📺, and I work as a <strong>Full Stack Developer</strong> 👨‍💻</p>
 
 <p>I love to learn more about web development every day, I started coding with PHP around 2008 to create my own text based browser games, I've been self learning ever since, and now I'm fascinated with blockchain and smart contracts.</p>
 
