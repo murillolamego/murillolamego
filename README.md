@@ -1,3 +1,4 @@
+<img src="https://res.cloudinary.com/murillolamego/image/upload/v1668345753/github/github_kpepba.jpg" />
 <h1>Hi 👋, I'm Murillo!</h1>
 <p>I live in <strong>Brazil</strong> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="16">, I'm a cinephile 📺, and I work as a <strong>Full Stack Developer</strong> 👨‍💻</p>
 
