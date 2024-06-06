@@ -13,21 +13,6 @@ Connect with me:
 	<a href="https://www.linkedin.com/in/murillolamego" rel="nofollow">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="https://murillolamego.com" rel="nofollow" target="_blank">
-		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-	</a>
-	<a href="https://www.hackerrank.com/murillolamego" rel="nofollow">
-		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-	</a>
-	<a href="https://leetcode.com/murillolamego/" rel="nofollow">
-		<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-	</a>
-	<a href="https://www.codewars.com/users/murillolamego" rel="nofollow">
-		<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
-	</a>
-	<a href="https://www.codechef.com/users/murillolamego" rel="nofollow">
-		<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-	</a>
  </div>
  <hr></hr>
  <h4>Technologies I love to work with 💻:</h4>
