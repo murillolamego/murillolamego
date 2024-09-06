@@ -1,12 +1,9 @@
 <img src="https://res.cloudinary.com/murillolamego/image/upload/v1668345753/github/github_kpepba.jpg" />
 <h1>Hi 👋, I'm Murillo!</h1>
-<p>I live in <strong>Brazil</strong> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="16">, I'm a cinephile 📺, and I work as a <strong>Full Stack Developer</strong> 👨‍💻</p>
 
-<p>I love to learn more about web development every day, I started coding with PHP around 2008 to create my own text based browser games, I've been self learning ever since, and now I'm fascinated with blockchain and smart contracts.</p>
+<p>Senior Software Engineer with over 5 years working as a Full Stack Web Developer, focused mainly on Back-end development, creating, improving and maintaining solutions for complex real-world problems.</p>
 
-<p>I work as a freelancer since 2010 when I got into college, mostly using Wordpress/Laravel to help small local companies have their first website or offering my services online, I migrated to JavaScript/NodeJS around 2017 and everyday I fall more in love with it.</p>
-
-<p>I became a federal employee in 2015, at Receita Federal do Brasil, in the IT department, working with different tech stacks, there I've learned how to structure bigger projects, ensure quality with precise testing, secure them with market best practices, provide support to the end user, and much more.</p>
+<p>My main expertise is JavasSript, using NodeJS and TypeScript to develop secure and highly available APIs and microservices, as well as React with NextJS to deliver a great user experience.</p>
  
 Connect with me:
 <div>
