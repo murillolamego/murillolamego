@@ -1,4 +1,3 @@
-<img src="https://res.cloudinary.com/murillolamego/image/upload/v1668345753/github/github_kpepba.jpg" />
 <h1>Hi 👋, I'm Murillo!</h1>
 
 <p>Senior Software Engineer with over 5 years working as a Full Stack Web Developer, focused mainly on Back-end development, creating, improving and maintaining solutions for complex real-world problems.</p>
