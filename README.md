@@ -50,7 +50,7 @@ Connect with me:
  </div>
  <hr></hr>
  <div>
-	<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murillolamego&theme=default"/>
+	<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murillolamego&theme=dark"/>
 </div>
 <hr></hr>
 <p align="right">
