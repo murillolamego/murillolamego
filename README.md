@@ -51,8 +51,6 @@ Connect with me:
  <hr></hr>
  <div>
 	<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murillolamego&theme=default"/>
-	<img width="49.3%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=murillolamego&theme=default"/>
-	<img width="49.3%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murillolamego&theme=default"/>
 </div>
 <hr></hr>
 <p align="right">
