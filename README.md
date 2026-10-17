@@ -1,8 +1,8 @@
-<h1>Hi 👋, I'm Murillo!</h1>
+<h1>Hi 👋, I'm Murillo!</h1> 
 
-<p>Senior Software Engineer with over 5 years working as a Full Stack Web Developer, focused mainly on Back-end development, creating, improving and maintaining solutions for complex real-world problems.</p>
+<p>I'm a backend-heavy full stack engineer with 11+ years in software, currently tech lead of a small team at Intelbras. I build APIs and microservices that handle millions of events per hour, with peaks above 2,000 per second.</p> 
 
-<p>My main expertise is JavasSript, using NodeJS and TypeScript to develop secure and highly available APIs and microservices, as well as React with NextJS to deliver a great user experience.</p>
+<p>My main stack is TypeScript, Node.js and NestJS on AWS, with React and Next.js on the front to keep the user experience great. I like fast systems, clean architecture and helping other engineers grow.</p>
  
 Connect with me:
 <div>
